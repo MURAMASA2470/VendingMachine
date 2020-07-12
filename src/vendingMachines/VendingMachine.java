@@ -1,19 +1,19 @@
 /**
  * 
  */
-package vendingMachine;
+package vendingMachines;
 
 /**
  * @author muramasa
  *
  */
-public class DrinkMachine extends VendingMachine {
-
+public class VendingMachine {
+	
 	/**
 	 * 
 	 */
-	public DrinkMachine() {
+	public VendingMachine() {
 		// TODO Auto-generated constructor stub
 	}
-
+	
 }

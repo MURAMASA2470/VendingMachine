@@ -1,7 +1,7 @@
 /**
  * 
  */
-package vendingMachine;
+package vendingMachines;
 
 /**
  * @author muramasa
