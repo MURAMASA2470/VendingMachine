@@ -9,4 +9,7 @@ package currencies;
  */
 public interface ICurrency {
 
+	public CurrencyType getCurrencyType();
+
+	public void setCurrencyType(CurrencyType currencyType);
 }
