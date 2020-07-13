@@ -1,0 +1,170 @@
+[
+  {
+    "name": "牛薄切り肉",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "牛焼肉用",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "牛ステーキ用",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "牛ブロック肉",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "その他牛肉",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "豚薄切り肉",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "豚焼肉用",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "豚生姜焼き用肉",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "豚ブロック肉",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "その他豚肉",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "鶏もも肉",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "鶏むね肉",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "その他鶏肉",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "挽き肉",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "キャベツ",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "レタス",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "白菜",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "たまねぎ",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "長ねぎ",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "もやし",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "トマト",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "きゅうり",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "なす",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "ピーマン",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "かぼちゃ",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "にんじん",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "大根",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  },
+  {
+    "name": "生姜",
+    "price": 700,
+    "wait": 10,
+    "type": "Food"
+  }
+]

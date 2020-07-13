@@ -1,0 +1,128 @@
+[
+  {
+    "name": "ボス ブラック",
+    "price": 120,
+    "wait": 0,
+    "type": "Drink"
+  },
+  {
+    "name": "ボス グリーン",
+    "price": 120,
+    "wait": 0,
+    "type": "Drink"
+  },
+  {
+    "name": "サントリー緑茶 伊右衛門 特茶",
+    "price": 120,
+    "wait": 0,
+    "type": "Drink"
+  },
+  {
+    "name": "特茶 カフェインゼロ",
+    "price": 120,
+    "wait": 0,
+    "type": "Drink"
+  },
+  {
+    "name": "特茶 ジャスミン",
+    "price": 120,
+    "wait": 0,
+    "type": "Drink"
+  },
+  {
+    "name": "サントリー 黒烏龍茶",
+    "price": 120,
+    "wait": 0,
+    "type": "Drink"
+  },
+  {
+    "name": "サントリー 胡麻麦茶",
+    "price": 120,
+    "wait": 0,
+    "type": "Drink"
+  },
+  {
+    "name": "ペプシスペシャル ゼロ",
+    "price": 120,
+    "wait": 0,
+    "type": "Drink"
+  },
+  {
+    "name": "ペプシ ネックスツー",
+    "price": 120,
+    "wait": 0,
+    "type": "Drink"
+  },
+  {
+    "name": "赤紅茶",
+    "price": 120,
+    "wait": 0,
+    "type": "Drink"
+  },
+  {
+    "name": "サントリー 大人ダカラ",
+    "price": 120,
+    "wait": 0,
+    "type": "Drink"
+  },
+  {
+    "name": "C.C.レモン",
+    "price": 120,
+    "wait": 0,
+    "type": "Drink"
+  },
+  {
+    "name": "セブンアップ",
+    "price": 120,
+    "wait": 0,
+    "type": "Drink"
+  },
+  {
+    "name": "マウンテンデュー",
+    "price": 120,
+    "wait": 0,
+    "type": "Drink"
+  },
+  {
+    "name": "デカビタC",
+    "price": 120,
+    "wait": 0,
+    "type": "Drink"
+  },
+  {
+    "name": "オランジーナ",
+    "price": 120,
+    "wait": 0,
+    "type": "Drink"
+  },
+  {
+    "name": "ＰＯＰメロンソーダ",
+    "price": 120,
+    "wait": 0,
+    "type": "Drink"
+  },
+  {
+    "name": "ＰＯＰホワイトソーダ",
+    "price": 120,
+    "wait": 0,
+    "type": "Drink"
+  },
+  {
+    "name": "サントリー 天然水サイダー",
+    "price": 120,
+    "wait": 0,
+    "type": "Drink"
+  },
+  {
+    "name": "スティング",
+    "price": 120,
+    "wait": 0,
+    "type": "Drink"
+  },
+  {
+    "name": "アイアンボス",
+    "price": 120,
+    "wait": 0,
+    "type": "Drink"
+  }
+]
