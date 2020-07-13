@@ -1,7 +1,4 @@
 package items;
-/**
- * 
- */
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
@@ -20,20 +17,31 @@ public class Item implements IItem {
 	@JsonProperty("wait")
 	private int wait;
 	
+	@JsonProperty("type")
+	private ItemType type;
+	
 	/**
 	 * 
 	 */
-	public Item(String name, int price) {
-		this(name, price, 0);
+	public Item() {
+		
 	}
 	
 	/**
 	 * 
 	 */
-	public Item(String name, int price, int wait) {
+	public Item(String name, int price, ItemType type) {
+		this(name, price, 0, type);
+	}
+	
+	/**
+	 * 
+	 */
+	public Item(String name, int price, int wait, ItemType type) {
 		this.name = name;
 		this.price = price;
 		this.wait = wait;
+		this.type = type;
 	}
 	
 	/**
@@ -76,6 +84,20 @@ public class Item implements IItem {
 	 */
 	public void setWait(int wait) {
 		this.wait = wait;
+	}
+
+	/**
+	 * @return the type
+	 */
+	public ItemType getType() {
+		return type;
+	}
+
+	/**
+	 * @param type the type to set
+	 */
+	public void setType(ItemType type) {
+		this.type = type;
 	}
 
 }
