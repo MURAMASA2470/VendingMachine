@@ -3,27 +3,37 @@
  */
 package currencies;
 
+import java.util.Arrays;
+import java.util.List;
+
 /**
  * @author muramasa
  *
  */
 public class Currency implements ICurrency {
 
-	private CurrencyType currencyType;
+	private CurrencyType type;
 	
 	/**
 	 * 
 	 */
 	public Currency() {
-		// TODO Auto-generated constructor stub
+
 	}
 
+	@Override
 	public CurrencyType getCurrencyType() {
-		return currencyType;
+		return type;
 	}
 
-	public void setCurrencyType(CurrencyType currencyType) {
-		this.currencyType = currencyType;
+	@Override
+	public void setCurrencyType(CurrencyType type) {
+		this.type = type;
+	}
+	
+	@Override
+	public boolean equals(int currency) {
+		return this.type.getCurrency() == currency;
 	}
 
 }
