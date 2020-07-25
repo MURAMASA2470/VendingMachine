@@ -25,31 +25,31 @@
   },
   {
     "name": "特茶 ジャスミン",
-    "price": 120,
+    "price": 150,
     "wait": 0,
     "type": "Drink"
   },
   {
     "name": "サントリー 黒烏龍茶",
-    "price": 120,
+    "price": 140,
     "wait": 0,
     "type": "Drink"
   },
   {
     "name": "サントリー 胡麻麦茶",
-    "price": 120,
+    "price": 140,
     "wait": 0,
     "type": "Drink"
   },
   {
     "name": "ペプシスペシャル ゼロ",
-    "price": 120,
+    "price": 100,
     "wait": 0,
     "type": "Drink"
   },
   {
     "name": "ペプシ ネックスツー",
-    "price": 120,
+    "price": 90,
     "wait": 0,
     "type": "Drink"
   },
@@ -67,7 +67,7 @@
   },
   {
     "name": "C.C.レモン",
-    "price": 120,
+    "price": 320,
     "wait": 0,
     "type": "Drink"
   },
@@ -85,7 +85,7 @@
   },
   {
     "name": "デカビタC",
-    "price": 120,
+    "price": 100,
     "wait": 0,
     "type": "Drink"
   },
@@ -97,25 +97,25 @@
   },
   {
     "name": "ＰＯＰメロンソーダ",
-    "price": 120,
+    "price": 100,
     "wait": 0,
     "type": "Drink"
   },
   {
     "name": "ＰＯＰホワイトソーダ",
-    "price": 120,
+    "price": 100,
     "wait": 0,
     "type": "Drink"
   },
   {
     "name": "サントリー 天然水サイダー",
-    "price": 120,
+    "price": 100,
     "wait": 0,
     "type": "Drink"
   },
   {
     "name": "スティング",
-    "price": 120,
+    "price": 150,
     "wait": 0,
     "type": "Drink"
   },
